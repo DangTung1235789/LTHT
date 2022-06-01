@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\nguye\source\repos\LTHT\Project3\Source.cpp(43,12): warning C4244: 'return': conversion from 'WPARAM' to 'int', possible loss of data
+C:\Users\nguye\source\repos\LTHT\Project3\Source.cpp(51,14): warning C4101: 'szBuffer': unreferenced local variable
+  Project3.vcxproj -> C:\Users\nguye\source\repos\LTHT\x64\Debug\Project3.exe

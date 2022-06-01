@@ -1,0 +1,7 @@
+﻿  Project4.cpp
+C:\Users\nguye\source\repos\LTHT\Project4\Project4.cpp(42,12): warning C4244: 'return': conversion from 'WPARAM' to 'int', possible loss of data
+C:\Users\nguye\source\repos\LTHT\Project4\Project4.cpp(53,9): warning C4101: 'hBrush1': unreferenced local variable
+C:\Users\nguye\source\repos\LTHT\Project4\Project4.cpp(49,14): warning C4101: 'szBuffer': unreferenced local variable
+C:\Users\nguye\source\repos\LTHT\Project4\Project4.cpp(47,17): warning C4101: 'j': unreferenced local variable
+C:\Users\nguye\source\repos\LTHT\Project4\Project4.cpp(47,14): warning C4101: 'i': unreferenced local variable
+  Project4.vcxproj -> C:\Users\nguye\source\repos\LTHT\x64\Debug\Project4.exe
